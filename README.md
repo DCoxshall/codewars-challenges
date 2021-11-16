@@ -1,7 +1,7 @@
 # codewars-challenges
 Code I wrote to complete challenges on codewars.com.
 
-Kata ratings (lower means more difficult):
+Kata range from 8 kyu to 1 kyu, with 1 kyu being the most difficult
 - Permutations: 4 kyu (https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
 - Sum of Intervals: 4 kyu (https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 - Snail: 4 kyu (https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
